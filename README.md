@@ -16,5 +16,4 @@ Ans.>
 
 ### Conclusion
 # Q2.Draw and label a diagram showing the internal wiring of a straight-through Ethernet cable (use T568B wiring standard), indicating the color of each wire and its pin number.
-Ans.>
-Ethernet cables are practical for connecting nearby devices in local networks, while fiber-optic cables are ideal for high-bandwidth connections over longer distances.
+Ans.>![WhatsApp Image](WhatsApp%20Image%202026-10-28%20at%2011.18.02%20AM.jpeg)
